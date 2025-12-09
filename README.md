@@ -13,7 +13,7 @@ Have a look ⬇️
 **Client:** HTML, CSS, JavaScript
 
 **Deploying:** Netlify
-<br>
+
 
 ##Contributors:
 ## @Ritesh
